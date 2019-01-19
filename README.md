@@ -1,2 +1,2 @@
-# codinggame
-Solutions to problems on Codinggame
+# Codinggame
+My solutions to problems on [Codinggame](https://www.codingame.com/)
